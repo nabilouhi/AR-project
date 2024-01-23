@@ -11,4 +11,3 @@ These three, basic projects are used on [this tutorial](https://medium.com/chial
 
 Have fun! 🌍
 
-Live URL (i.e. for v3 folder): [https://nicolocarpignoli.github.io/location-based-ar-tutorial/v3](https://nicolocarpignoli.github.io/location-based-ar-tutorial/v3)
