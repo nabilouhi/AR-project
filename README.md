@@ -1,6 +1,5 @@
 # Location Based AR Tutorial - AR.js v2.0.x
 
-<img src="https://miro.medium.com/max/2476/1*IymrgzbXR9j7TCqT3GSLNg.png">
 
 These three, basic projects are used on [this tutorial](https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564) about Location Based Augmented Reality on the Web, using AR.js v2.0.x.
 
