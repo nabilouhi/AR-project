@@ -10,8 +10,8 @@ function staticLoadPlaces() {
         {
             name: '3D',
             location: {
-                lat: 48.9136963,
-                lng: 2.3271118,
+                lat: 48.91298583526182 ,
+                lng: 2.32887366708586,
             },
         },
     ];
